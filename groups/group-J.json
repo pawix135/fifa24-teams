@@ -1,0 +1,42 @@
+[
+  {
+    "teamName": "Juventus",
+    "teamId": "juventus",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/juventus.webp"
+  },
+  {
+    "teamName": "Jeonbuk Hyundai Motors",
+    "teamId": "jeonbuk-hyundai-motors",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/jeonbuk-hyundai-motors.webp"
+  },
+  {
+    "teamName": "Junior de Barranquilla",
+    "teamId": "junior-de-barranquilla",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/junior-de-barranquilla.webp"
+  },
+  {
+    "teamName": "Jorge Wilstermann",
+    "teamId": "jorge-wilstermann",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/jorge-wilstermann.webp"
+  },
+  {
+    "teamName": "Jagiellonia Białystok",
+    "teamId": "jagiellonia-białystok",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/jagiellonia-białystok.webp"
+  },
+  {
+    "teamName": "Jeju United",
+    "teamId": "jeju-united",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/jeju-united.webp"
+  },
+  {
+    "teamName": "Jahn Regensburg",
+    "teamId": "jahn-regensburg",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/jahn-regensburg.webp"
+  },
+  {
+    "teamName": "Jamshedpur FC",
+    "teamId": "jamshedpur-fc",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/jamshedpur-fc.webp"
+  }
+]

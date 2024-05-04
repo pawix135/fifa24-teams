@@ -1,0 +1,3599 @@
+{
+  "1": [
+    {
+      "teamName": "1. FC Köln",
+      "teamId": "1.-fc-köln",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/1.-fc-köln.webp"
+    },
+    {
+      "teamName": "1. FC Union Berlin",
+      "teamId": "1.-fc-union-berlin",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/1.-fc-union-berlin.webp"
+    },
+    {
+      "teamName": "1. FC Kaiserslautern",
+      "teamId": "1.-fc-kaiserslautern",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/1.-fc-kaiserslautern.webp"
+    },
+    {
+      "teamName": "1. FC Nürnberg",
+      "teamId": "1.-fc-nürnberg",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/1.-fc-nürnberg.webp"
+    },
+    {
+      "teamName": "1. FC Magdeburg",
+      "teamId": "1.-fc-magdeburg",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/1.-fc-magdeburg.webp"
+    },
+    {
+      "teamName": "1. FC Saarbrücken",
+      "teamId": "1.-fc-saarbrücken",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/1.-fc-saarbrücken.webp"
+    },
+    {
+      "teamName": "1. FSV Mainz 05",
+      "teamId": "1.-fsv-mainz-05",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/1.-fsv-mainz-05.webp"
+    },
+    {
+      "teamName": "1. FC Heidenheim",
+      "teamId": "1.-fc-heidenheim",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/1.-fc-heidenheim.webp"
+    }
+  ],
+  "F": [
+    {
+      "teamName": "FC Barcelona",
+      "teamId": "fc-barcelona",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-barcelona.webp"
+    },
+    {
+      "teamName": "FC Porto",
+      "teamId": "fc-porto",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-porto.webp"
+    },
+    {
+      "teamName": "Fluminense",
+      "teamId": "fluminense",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fluminense.webp"
+    },
+    {
+      "teamName": "Fenerbahçe",
+      "teamId": "fenerbahçe",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fenerbahçe.webp"
+    },
+    {
+      "teamName": "Flamengo",
+      "teamId": "flamengo",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/flamengo.webp"
+    },
+    {
+      "teamName": "Feyenoord",
+      "teamId": "feyenoord",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/feyenoord.webp"
+    },
+    {
+      "teamName": "FC Schalke 04",
+      "teamId": "fc-schalke-04",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-schalke-04.webp"
+    },
+    {
+      "teamName": "Fiorentina",
+      "teamId": "fiorentina",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fiorentina.webp"
+    },
+    {
+      "teamName": "FC St. Pauli",
+      "teamId": "fc-st.-pauli",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-st.-pauli.webp"
+    },
+    {
+      "teamName": "FC Basel",
+      "teamId": "fc-basel",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-basel.webp"
+    },
+    {
+      "teamName": "FC København",
+      "teamId": "fc-københavn",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-københavn.webp"
+    },
+    {
+      "teamName": "FCSB",
+      "teamId": "fcsb",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fcsb.webp"
+    },
+    {
+      "teamName": "Ferencvárosi TC",
+      "teamId": "ferencvárosi-tc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ferencvárosi-tc.webp"
+    },
+    {
+      "teamName": "FC Lausanne-Sport",
+      "teamId": "fc-lausanne-sport",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-lausanne-sport.webp"
+    },
+    {
+      "teamName": "FC Midtjylland",
+      "teamId": "fc-midtjylland",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-midtjylland.webp"
+    },
+    {
+      "teamName": "FC Seoul",
+      "teamId": "fc-seoul",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-seoul.webp"
+    },
+    {
+      "teamName": "FC Nantes",
+      "teamId": "fc-nantes",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-nantes.webp"
+    },
+    {
+      "teamName": "FC St. Gallen",
+      "teamId": "fc-st.-gallen",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-st.-gallen.webp"
+    },
+    {
+      "teamName": "FK Bodø/Glimt",
+      "teamId": "fk-bodø-glimt",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fk-bodø-glimt.webp"
+    },
+    {
+      "teamName": "FC Cincinnati",
+      "teamId": "fc-cincinnati",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-cincinnati.webp"
+    },
+    {
+      "teamName": "FC Twente",
+      "teamId": "fc-twente",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-twente.webp"
+    },
+    {
+      "teamName": "Fulham",
+      "teamId": "fulham",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fulham.webp"
+    },
+    {
+      "teamName": "FC Utrecht",
+      "teamId": "fc-utrecht",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-utrecht.webp"
+    },
+    {
+      "teamName": "FC Nordsjælland",
+      "teamId": "fc-nordsjælland",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-nordsjælland.webp"
+    },
+    {
+      "teamName": "Fortuna Düsseldorf",
+      "teamId": "fortuna-düsseldorf",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fortuna-düsseldorf.webp"
+    },
+    {
+      "teamName": "FC U Craiova 1948",
+      "teamId": "fc-u-craiova-1948",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-u-craiova-1948.webp"
+    },
+    {
+      "teamName": "FC Goa",
+      "teamId": "fc-goa",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-goa.webp"
+    },
+    {
+      "teamName": "Farul Constanța",
+      "teamId": "farul-constanța",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/farul-constanța.webp"
+    },
+    {
+      "teamName": "FC Luzern",
+      "teamId": "fc-luzern",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-luzern.webp"
+    },
+    {
+      "teamName": "FC Zürich",
+      "teamId": "fc-zürich",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-zürich.webp"
+    },
+    {
+      "teamName": "FC Hermannstadt",
+      "teamId": "fc-hermannstadt",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-hermannstadt.webp"
+    },
+    {
+      "teamName": "FC Stade-Lausanne Ouchy",
+      "teamId": "fc-stade-lausanne-ouchy",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-stade-lausanne-ouchy.webp"
+    },
+    {
+      "teamName": "FC Cartagena",
+      "teamId": "fc-cartagena",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-cartagena.webp"
+    },
+    {
+      "teamName": "FC Botoșani",
+      "teamId": "fc-botoșani",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-botoșani.webp"
+    },
+    {
+      "teamName": "FC Ingolstadt 04",
+      "teamId": "fc-ingolstadt-04",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-ingolstadt-04.webp"
+    },
+    {
+      "teamName": "FC Winterthur",
+      "teamId": "fc-winterthur",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-winterthur.webp"
+    },
+    {
+      "teamName": "FC Metz",
+      "teamId": "fc-metz",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-metz.webp"
+    },
+    {
+      "teamName": "FC Dallas",
+      "teamId": "fc-dallas",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-dallas.webp"
+    },
+    {
+      "teamName": "FC Augsburg",
+      "teamId": "fc-augsburg",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-augsburg.webp"
+    },
+    {
+      "teamName": "FC Voluntari",
+      "teamId": "fc-voluntari",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-voluntari.webp"
+    },
+    {
+      "teamName": "FC Lorient",
+      "teamId": "fc-lorient",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-lorient.webp"
+    },
+    {
+      "teamName": "Frosinone",
+      "teamId": "frosinone",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/frosinone.webp"
+    },
+    {
+      "teamName": "Famalicão",
+      "teamId": "famalicão",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/famalicão.webp"
+    },
+    {
+      "teamName": "Fortuna Sittard",
+      "teamId": "fortuna-sittard",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fortuna-sittard.webp"
+    },
+    {
+      "teamName": "FK Haugesund",
+      "teamId": "fk-haugesund",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fk-haugesund.webp"
+    },
+    {
+      "teamName": "Fatih Karagümrük S.K.",
+      "teamId": "fatih-karagümrük-s.k.",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fatih-karagümrük-s.k..webp"
+    },
+    {
+      "teamName": "FC Andorra",
+      "teamId": "fc-andorra",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-andorra.webp"
+    },
+    {
+      "teamName": "FC Annecy",
+      "teamId": "fc-annecy",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-annecy.webp"
+    },
+    {
+      "teamName": "Fortaleza",
+      "teamId": "fortaleza",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fortaleza.webp"
+    },
+    {
+      "teamName": "FC Lugano",
+      "teamId": "fc-lugano",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-lugano.webp"
+    },
+    {
+      "teamName": "Fleetwood Town",
+      "teamId": "fleetwood-town",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fleetwood-town.webp"
+    },
+    {
+      "teamName": "FC Volendam",
+      "teamId": "fc-volendam",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/fc-volendam.webp"
+    },
+    {
+      "teamName": "Feralpisalò",
+      "teamId": "feralpisalò",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/feralpisalò.webp"
+    },
+    {
+      "teamName": "Farense",
+      "teamId": "farense",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/farense.webp"
+    },
+    {
+      "teamName": "Forest Green Rovers",
+      "teamId": "forest-green-rovers",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/forest-green-rovers.webp"
+    },
+    {
+      "teamName": "Finland",
+      "teamId": "finland",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/finland.webp"
+    },
+    {
+      "teamName": "France",
+      "teamId": "france",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/france.webp"
+    }
+  ],
+  "R": [
+    {
+      "teamName": "Real Madrid",
+      "teamId": "real-madrid",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/real-madrid.webp"
+    },
+    {
+      "teamName": "River Plate",
+      "teamId": "river-plate",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/river-plate.webp"
+    },
+    {
+      "teamName": "Roma",
+      "teamId": "roma",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/roma.webp"
+    },
+    {
+      "teamName": "Rangers",
+      "teamId": "rangers",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/rangers.webp"
+    },
+    {
+      "teamName": "Racing Club de Avellaneda",
+      "teamId": "racing-club-de-avellaneda",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/racing-club-de-avellaneda.webp"
+    },
+    {
+      "teamName": "RC Celta de Vigo",
+      "teamId": "rc-celta-de-vigo",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/rc-celta-de-vigo.webp"
+    },
+    {
+      "teamName": "RCD Espanyol",
+      "teamId": "rcd-espanyol",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/rcd-espanyol.webp"
+    },
+    {
+      "teamName": "Real Sociedad",
+      "teamId": "real-sociedad",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/real-sociedad.webp"
+    },
+    {
+      "teamName": "RB Leipzig",
+      "teamId": "rb-leipzig",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/rb-leipzig.webp"
+    },
+    {
+      "teamName": "Rosario Central",
+      "teamId": "rosario-central",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/rosario-central.webp"
+    },
+    {
+      "teamName": "Rot-Weiß Essen",
+      "teamId": "rot-weiß-essen",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/rot-weiß-essen.webp"
+    },
+    {
+      "teamName": "RC Lens",
+      "teamId": "rc-lens",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/rc-lens.webp"
+    },
+    {
+      "teamName": "RC Strasbourg",
+      "teamId": "rc-strasbourg",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/rc-strasbourg.webp"
+    },
+    {
+      "teamName": "Real Zaragoza",
+      "teamId": "real-zaragoza",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/real-zaragoza.webp"
+    },
+    {
+      "teamName": "Real Betis Balompié",
+      "teamId": "real-betis-balompié",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/real-betis-balompié.webp"
+    },
+    {
+      "teamName": "Real Sporting de Gijón",
+      "teamId": "real-sporting-de-gijón",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/real-sporting-de-gijón.webp"
+    },
+    {
+      "teamName": "Rosenborg BK",
+      "teamId": "rosenborg-bk",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/rosenborg-bk.webp"
+    },
+    {
+      "teamName": "Rapid București",
+      "teamId": "rapid-bucurești",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/rapid-bucurești.webp"
+    },
+    {
+      "teamName": "Rayo Vallecano",
+      "teamId": "rayo-vallecano",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/rayo-vallecano.webp"
+    },
+    {
+      "teamName": "Real Oviedo",
+      "teamId": "real-oviedo",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/real-oviedo.webp"
+    },
+    {
+      "teamName": "Reading",
+      "teamId": "reading",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/reading.webp"
+    },
+    {
+      "teamName": "Real Valladolid",
+      "teamId": "real-valladolid",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/real-valladolid.webp"
+    },
+    {
+      "teamName": "Racing de Santander",
+      "teamId": "racing-de-santander",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/racing-de-santander.webp"
+    },
+    {
+      "teamName": "RCD Mallorca",
+      "teamId": "rcd-mallorca",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/rcd-mallorca.webp"
+    },
+    {
+      "teamName": "Raków Częstochowa",
+      "teamId": "raków-częstochowa",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/raków-częstochowa.webp"
+    },
+    {
+      "teamName": "RB Salzburg",
+      "teamId": "rb-salzburg",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/rb-salzburg.webp"
+    },
+    {
+      "teamName": "Ruch Chorzów",
+      "teamId": "ruch-chorzów",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ruch-chorzów.webp"
+    },
+    {
+      "teamName": "Real Salt Lake",
+      "teamId": "real-salt-lake",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/real-salt-lake.webp"
+    },
+    {
+      "teamName": "Radomiak Radom",
+      "teamId": "radomiak-radom",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/radomiak-radom.webp"
+    },
+    {
+      "teamName": "RB Bragantino",
+      "teamId": "rb-bragantino",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/rb-bragantino.webp"
+    },
+    {
+      "teamName": "Rio Ave",
+      "teamId": "rio-ave",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/rio-ave.webp"
+    },
+    {
+      "teamName": "Ross County",
+      "teamId": "ross-county",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ross-county.webp"
+    },
+    {
+      "teamName": "Rotherham United",
+      "teamId": "rotherham-united",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/rotherham-united.webp"
+    },
+    {
+      "teamName": "Randers FC",
+      "teamId": "randers-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/randers-fc.webp"
+    },
+    {
+      "teamName": "Rayo Zuliano",
+      "teamId": "rayo-zuliano",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/rayo-zuliano.webp"
+    },
+    {
+      "teamName": "Real Tomayapo",
+      "teamId": "real-tomayapo",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/real-tomayapo.webp"
+    },
+    {
+      "teamName": "Racing de Ferrol",
+      "teamId": "racing-de-ferrol",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/racing-de-ferrol.webp"
+    },
+    {
+      "teamName": "Reggiana",
+      "teamId": "reggiana",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/reggiana.webp"
+    },
+    {
+      "teamName": "RWD Molenbeek",
+      "teamId": "rwd-molenbeek",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/rwd-molenbeek.webp"
+    },
+    {
+      "teamName": "RKC Waalwijk",
+      "teamId": "rkc-waalwijk",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/rkc-waalwijk.webp"
+    },
+    {
+      "teamName": "Rodez Aveyron Football",
+      "teamId": "rodez-aveyron-football",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/rodez-aveyron-football.webp"
+    },
+    {
+      "teamName": "Racing Club De Montevideo",
+      "teamId": "racing-club-de-montevideo",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/racing-club-de-montevideo.webp"
+    },
+    {
+      "teamName": "Romania",
+      "teamId": "romania",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/romania.webp"
+    },
+    {
+      "teamName": "Republic of Ireland",
+      "teamId": "republic-of-ireland",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/republic-of-ireland.webp"
+    }
+  ],
+  "J": [
+    {
+      "teamName": "Juventus",
+      "teamId": "juventus",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/juventus.webp"
+    },
+    {
+      "teamName": "Jeonbuk Hyundai Motors",
+      "teamId": "jeonbuk-hyundai-motors",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/jeonbuk-hyundai-motors.webp"
+    },
+    {
+      "teamName": "Junior de Barranquilla",
+      "teamId": "junior-de-barranquilla",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/junior-de-barranquilla.webp"
+    },
+    {
+      "teamName": "Jorge Wilstermann",
+      "teamId": "jorge-wilstermann",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/jorge-wilstermann.webp"
+    },
+    {
+      "teamName": "Jagiellonia Białystok",
+      "teamId": "jagiellonia-białystok",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/jagiellonia-białystok.webp"
+    },
+    {
+      "teamName": "Jeju United",
+      "teamId": "jeju-united",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/jeju-united.webp"
+    },
+    {
+      "teamName": "Jahn Regensburg",
+      "teamId": "jahn-regensburg",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/jahn-regensburg.webp"
+    },
+    {
+      "teamName": "Jamshedpur FC",
+      "teamId": "jamshedpur-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/jamshedpur-fc.webp"
+    }
+  ],
+  "M": [
+    {
+      "teamName": "Manchester United",
+      "teamId": "manchester-united",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/manchester-united.webp"
+    },
+    {
+      "teamName": "Milan",
+      "teamId": "milan",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/milan.webp"
+    },
+    {
+      "teamName": "Manchester City",
+      "teamId": "manchester-city",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/manchester-city.webp"
+    },
+    {
+      "teamName": "Mohun Bagan Super Giant",
+      "teamId": "mohun-bagan-super-giant",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/mohun-bagan-super-giant.webp"
+    },
+    {
+      "teamName": "MKE Ankaragücü",
+      "teamId": "mke-ankaragücü",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/mke-ankaragücü.webp"
+    },
+    {
+      "teamName": "Millonarios",
+      "teamId": "millonarios",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/millonarios.webp"
+    },
+    {
+      "teamName": "Middlesbrough",
+      "teamId": "middlesbrough",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/middlesbrough.webp"
+    },
+    {
+      "teamName": "Malmö FF",
+      "teamId": "malmö-ff",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/malmö-ff.webp"
+    },
+    {
+      "teamName": "Montevideo Wanderers",
+      "teamId": "montevideo-wanderers",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/montevideo-wanderers.webp"
+    },
+    {
+      "teamName": "MSV Duisburg",
+      "teamId": "msv-duisburg",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/msv-duisburg.webp"
+    },
+    {
+      "teamName": "Molde FK",
+      "teamId": "molde-fk",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/molde-fk.webp"
+    },
+    {
+      "teamName": "Melbourne City",
+      "teamId": "melbourne-city",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/melbourne-city.webp"
+    },
+    {
+      "teamName": "Motherwell",
+      "teamId": "motherwell",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/motherwell.webp"
+    },
+    {
+      "teamName": "Montpellier HSC",
+      "teamId": "montpellier-hsc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/montpellier-hsc.webp"
+    },
+    {
+      "teamName": "Mumbai City FC",
+      "teamId": "mumbai-city-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/mumbai-city-fc.webp"
+    },
+    {
+      "teamName": "Melbourne Victory",
+      "teamId": "melbourne-victory",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/melbourne-victory.webp"
+    },
+    {
+      "teamName": "Moreirense",
+      "teamId": "moreirense",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/moreirense.webp"
+    },
+    {
+      "teamName": "Millwall",
+      "teamId": "millwall",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/millwall.webp"
+    },
+    {
+      "teamName": "Mjällby AIF",
+      "teamId": "mjällby-aif",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/mjällby-aif.webp"
+    },
+    {
+      "teamName": "Mansfield Town",
+      "teamId": "mansfield-town",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/mansfield-town.webp"
+    },
+    {
+      "teamName": "Modena",
+      "teamId": "modena",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/modena.webp"
+    },
+    {
+      "teamName": "Minnesota United FC",
+      "teamId": "minnesota-united-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/minnesota-united-fc.webp"
+    },
+    {
+      "teamName": "Milton Keynes Dons",
+      "teamId": "milton-keynes-dons",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/milton-keynes-dons.webp"
+    },
+    {
+      "teamName": "Meizhou Hakka",
+      "teamId": "meizhou-hakka",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/meizhou-hakka.webp"
+    },
+    {
+      "teamName": "Metropolitanos FC",
+      "teamId": "metropolitanos-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/metropolitanos-fc.webp"
+    },
+    {
+      "teamName": "Morecambe",
+      "teamId": "morecambe",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/morecambe.webp"
+    },
+    {
+      "teamName": "Macarthur FC",
+      "teamId": "macarthur-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/macarthur-fc.webp"
+    },
+    {
+      "teamName": "Morocco",
+      "teamId": "morocco",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/morocco.webp"
+    },
+    {
+      "teamName": "Mexico",
+      "teamId": "mexico",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/mexico.webp"
+    }
+  ],
+  "P": [
+    {
+      "teamName": "Paris Saint-Germain",
+      "teamId": "paris-saint-germain",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/paris-saint-germain.webp"
+    },
+    {
+      "teamName": "PSV",
+      "teamId": "psv",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/psv.webp"
+    },
+    {
+      "teamName": "Peñarol",
+      "teamId": "peñarol",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/peñarol.webp"
+    },
+    {
+      "teamName": "Palmeiras",
+      "teamId": "palmeiras",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/palmeiras.webp"
+    },
+    {
+      "teamName": "Panathinaikos",
+      "teamId": "panathinaikos",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/panathinaikos.webp"
+    },
+    {
+      "teamName": "Parma",
+      "teamId": "parma",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/parma.webp"
+    },
+    {
+      "teamName": "Philadelphia Union",
+      "teamId": "philadelphia-union",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/philadelphia-union.webp"
+    },
+    {
+      "teamName": "Pogoń Szczecin",
+      "teamId": "pogoń-szczecin",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/pogoń-szczecin.webp"
+    },
+    {
+      "teamName": "Palermo",
+      "teamId": "palermo",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/palermo.webp"
+    },
+    {
+      "teamName": "PAOK",
+      "teamId": "paok",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/paok.webp"
+    },
+    {
+      "teamName": "Petrolul Ploiești",
+      "teamId": "petrolul-ploiești",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/petrolul-ploiești.webp"
+    },
+    {
+      "teamName": "Pohang Steelers",
+      "teamId": "pohang-steelers",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/pohang-steelers.webp"
+    },
+    {
+      "teamName": "Portsmouth",
+      "teamId": "portsmouth",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/portsmouth.webp"
+    },
+    {
+      "teamName": "Preston North End",
+      "teamId": "preston-north-end",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/preston-north-end.webp"
+    },
+    {
+      "teamName": "Preußen Münster",
+      "teamId": "preußen-münster",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/preußen-münster.webp"
+    },
+    {
+      "teamName": "Portland Timbers",
+      "teamId": "portland-timbers",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/portland-timbers.webp"
+    },
+    {
+      "teamName": "Palestino",
+      "teamId": "palestino",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/palestino.webp"
+    },
+    {
+      "teamName": "Piast Gliwice",
+      "teamId": "piast-gliwice",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/piast-gliwice.webp"
+    },
+    {
+      "teamName": "Pisa",
+      "teamId": "pisa",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/pisa.webp"
+    },
+    {
+      "teamName": "Politehnica Iași",
+      "teamId": "politehnica-iași",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/politehnica-iași.webp"
+    },
+    {
+      "teamName": "Perth Glory",
+      "teamId": "perth-glory",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/perth-glory.webp"
+    },
+    {
+      "teamName": "PEC Zwolle",
+      "teamId": "pec-zwolle",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/pec-zwolle.webp"
+    },
+    {
+      "teamName": "Plymouth Argyle",
+      "teamId": "plymouth-argyle",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/plymouth-argyle.webp"
+    },
+    {
+      "teamName": "Peterborough United",
+      "teamId": "peterborough-united",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/peterborough-united.webp"
+    },
+    {
+      "teamName": "Platense",
+      "teamId": "platense",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/platense.webp"
+    },
+    {
+      "teamName": "Paris FC",
+      "teamId": "paris-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/paris-fc.webp"
+    },
+    {
+      "teamName": "Port Vale",
+      "teamId": "port-vale",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/port-vale.webp"
+    },
+    {
+      "teamName": "Punjab FC",
+      "teamId": "punjab-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/punjab-fc.webp"
+    },
+    {
+      "teamName": "Portimonense",
+      "teamId": "portimonense",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/portimonense.webp"
+    },
+    {
+      "teamName": "Pendikspor",
+      "teamId": "pendikspor",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/pendikspor.webp"
+    },
+    {
+      "teamName": "Puszcza Niepołomice",
+      "teamId": "puszcza-niepołomice",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/puszcza-niepołomice.webp"
+    },
+    {
+      "teamName": "Pau FC",
+      "teamId": "pau-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/pau-fc.webp"
+    },
+    {
+      "teamName": "Portugal",
+      "teamId": "portugal",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/portugal.webp"
+    },
+    {
+      "teamName": "Poland",
+      "teamId": "poland",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/poland.webp"
+    }
+  ],
+  "B": [
+    {
+      "teamName": "Bayern München",
+      "teamId": "bayern-münchen",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/bayern-münchen.webp"
+    },
+    {
+      "teamName": "Borussia Dortmund",
+      "teamId": "borussia-dortmund",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/borussia-dortmund.webp"
+    },
+    {
+      "teamName": "Benfica",
+      "teamId": "benfica",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/benfica.webp"
+    },
+    {
+      "teamName": "Boca Juniors",
+      "teamId": "boca-juniors",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/boca-juniors.webp"
+    },
+    {
+      "teamName": "Beşiktaş",
+      "teamId": "beşiktaş",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/beşiktaş.webp"
+    },
+    {
+      "teamName": "Borussia M'gladbach",
+      "teamId": "borussia-m'gladbach",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/borussia-m'gladbach.webp"
+    },
+    {
+      "teamName": "Barcelona SC Guayaquil",
+      "teamId": "barcelona-sc-guayaquil",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/barcelona-sc-guayaquil.webp"
+    },
+    {
+      "teamName": "BSC Young Boys",
+      "teamId": "bsc-young-boys",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/bsc-young-boys.webp"
+    },
+    {
+      "teamName": "Brighton & Hove Albion",
+      "teamId": "brighton-&-hove-albion",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/brighton-&-hove-albion.webp"
+    },
+    {
+      "teamName": "Boavista",
+      "teamId": "boavista",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/boavista.webp"
+    },
+    {
+      "teamName": "Botafogo",
+      "teamId": "botafogo",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/botafogo.webp"
+    },
+    {
+      "teamName": "Bari",
+      "teamId": "bari",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/bari.webp"
+    },
+    {
+      "teamName": "Bolívar",
+      "teamId": "bolívar",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/bolívar.webp"
+    },
+    {
+      "teamName": "Bristol City",
+      "teamId": "bristol-city",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/bristol-city.webp"
+    },
+    {
+      "teamName": "Bologna",
+      "teamId": "bologna",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/bologna.webp"
+    },
+    {
+      "teamName": "Bengaluru FC",
+      "teamId": "bengaluru-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/bengaluru-fc.webp"
+    },
+    {
+      "teamName": "Braga",
+      "teamId": "braga",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/braga.webp"
+    },
+    {
+      "teamName": "Burnley",
+      "teamId": "burnley",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/burnley.webp"
+    },
+    {
+      "teamName": "Bradford City",
+      "teamId": "bradford-city",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/bradford-city.webp"
+    },
+    {
+      "teamName": "Barnsley",
+      "teamId": "barnsley",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/barnsley.webp"
+    },
+    {
+      "teamName": "Brentford",
+      "teamId": "brentford",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/brentford.webp"
+    },
+    {
+      "teamName": "Bohemians",
+      "teamId": "bohemians",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/bohemians.webp"
+    },
+    {
+      "teamName": "Birmingham City",
+      "teamId": "birmingham-city",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/birmingham-city.webp"
+    },
+    {
+      "teamName": "Bolton Wanderers",
+      "teamId": "bolton-wanderers",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/bolton-wanderers.webp"
+    },
+    {
+      "teamName": "Brescia",
+      "teamId": "brescia",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/brescia.webp"
+    },
+    {
+      "teamName": "Brøndby IF",
+      "teamId": "brøndby-if",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/brøndby-if.webp"
+    },
+    {
+      "teamName": "Blackburn Rovers",
+      "teamId": "blackburn-rovers",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/blackburn-rovers.webp"
+    },
+    {
+      "teamName": "Belgrano de Córdoba",
+      "teamId": "belgrano-de-córdoba",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/belgrano-de-córdoba.webp"
+    },
+    {
+      "teamName": "Blackpool",
+      "teamId": "blackpool",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/blackpool.webp"
+    },
+    {
+      "teamName": "Brisbane Roar",
+      "teamId": "brisbane-roar",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/brisbane-roar.webp"
+    },
+    {
+      "teamName": "Beijing Guoan",
+      "teamId": "beijing-guoan",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/beijing-guoan.webp"
+    },
+    {
+      "teamName": "Banfield",
+      "teamId": "banfield",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/banfield.webp"
+    },
+    {
+      "teamName": "Bayer 04 Leverkusen",
+      "teamId": "bayer-04-leverkusen",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/bayer-04-leverkusen.webp"
+    },
+    {
+      "teamName": "Bristol Rovers",
+      "teamId": "bristol-rovers",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/bristol-rovers.webp"
+    },
+    {
+      "teamName": "BK Häcken",
+      "teamId": "bk-häcken",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/bk-häcken.webp"
+    },
+    {
+      "teamName": "Burgos CF",
+      "teamId": "burgos-cf",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/burgos-cf.webp"
+    },
+    {
+      "teamName": "Barrow",
+      "teamId": "barrow",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/barrow.webp"
+    },
+    {
+      "teamName": "Barracas Central",
+      "teamId": "barracas-central",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/barracas-central.webp"
+    },
+    {
+      "teamName": "Blau-Weiß Linz",
+      "teamId": "blau-weiß-linz",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/blau-weiß-linz.webp"
+    },
+    {
+      "teamName": "Burton Albion",
+      "teamId": "burton-albion",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/burton-albion.webp"
+    },
+    {
+      "teamName": "Borussia Dortmund II",
+      "teamId": "borussia-dortmund-ii",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/borussia-dortmund-ii.webp"
+    },
+    {
+      "teamName": "Belgium",
+      "teamId": "belgium",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/belgium.webp"
+    }
+  ],
+  "T": [
+    {
+      "teamName": "Tottenham Hotspur",
+      "teamId": "tottenham-hotspur",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/tottenham-hotspur.webp"
+    },
+    {
+      "teamName": "Trabzonspor",
+      "teamId": "trabzonspor",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/trabzonspor.webp"
+    },
+    {
+      "teamName": "Torino",
+      "teamId": "torino",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/torino.webp"
+    },
+    {
+      "teamName": "Toronto FC",
+      "teamId": "toronto-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/toronto-fc.webp"
+    },
+    {
+      "teamName": "TSV 1860 München",
+      "teamId": "tsv-1860-münchen",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/tsv-1860-münchen.webp"
+    },
+    {
+      "teamName": "The Strongest",
+      "teamId": "the-strongest",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/the-strongest.webp"
+    },
+    {
+      "teamName": "Talleres de Córdoba",
+      "teamId": "talleres-de-córdoba",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/talleres-de-córdoba.webp"
+    },
+    {
+      "teamName": "Tigre",
+      "teamId": "tigre",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/tigre.webp"
+    },
+    {
+      "teamName": "Toulouse FC",
+      "teamId": "toulouse-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/toulouse-fc.webp"
+    },
+    {
+      "teamName": "Ternana",
+      "teamId": "ternana",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ternana.webp"
+    },
+    {
+      "teamName": "Técnico Universitario",
+      "teamId": "técnico-universitario",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/técnico-universitario.webp"
+    },
+    {
+      "teamName": "Tromsø IL",
+      "teamId": "tromsø-il",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/tromsø-il.webp"
+    },
+    {
+      "teamName": "Tianjin Jinmen Tiger",
+      "teamId": "tianjin-jinmen-tiger",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/tianjin-jinmen-tiger.webp"
+    },
+    {
+      "teamName": "Tranmere Rovers",
+      "teamId": "tranmere-rovers",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/tranmere-rovers.webp"
+    },
+    {
+      "teamName": "TSG 1899 Hoffenheim",
+      "teamId": "tsg-1899-hoffenheim",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/tsg-1899-hoffenheim.webp"
+    }
+  ],
+  "A": [
+    {
+      "teamName": "Atlético de Madrid",
+      "teamId": "atlético-de-madrid",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/atlético-de-madrid.webp"
+    },
+    {
+      "teamName": "Ajax",
+      "teamId": "ajax",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ajax.webp"
+    },
+    {
+      "teamName": "Arsenal",
+      "teamId": "arsenal",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/arsenal.webp"
+    },
+    {
+      "teamName": "América de Cali",
+      "teamId": "américa-de-cali",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/américa-de-cali.webp"
+    },
+    {
+      "teamName": "Atlético Nacional",
+      "teamId": "atlético-nacional",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/atlético-nacional.webp"
+    },
+    {
+      "teamName": "Aston Villa",
+      "teamId": "aston-villa",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/aston-villa.webp"
+    },
+    {
+      "teamName": "Athletic Club de Bilbao",
+      "teamId": "athletic-club-de-bilbao",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/athletic-club-de-bilbao.webp"
+    },
+    {
+      "teamName": "AEK",
+      "teamId": "aek",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/aek.webp"
+    },
+    {
+      "teamName": "Atlanta United FC",
+      "teamId": "atlanta-united-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/atlanta-united-fc.webp"
+    },
+    {
+      "teamName": "Alianza Lima",
+      "teamId": "alianza-lima",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/alianza-lima.webp"
+    },
+    {
+      "teamName": "Al Hilal",
+      "teamId": "al-hilal",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/al-hilal.webp"
+    },
+    {
+      "teamName": "Al Ittihad",
+      "teamId": "al-ittihad",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/al-ittihad.webp"
+    },
+    {
+      "teamName": "Atlético Mineiro",
+      "teamId": "atlético-mineiro",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/atlético-mineiro.webp"
+    },
+    {
+      "teamName": "AS Saint-Étienne",
+      "teamId": "as-saint-étienne",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/as-saint-étienne.webp"
+    },
+    {
+      "teamName": "Antwerp",
+      "teamId": "antwerp",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/antwerp.webp"
+    },
+    {
+      "teamName": "Anderlecht",
+      "teamId": "anderlecht",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/anderlecht.webp"
+    },
+    {
+      "teamName": "AS Monaco",
+      "teamId": "as-monaco",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/as-monaco.webp"
+    },
+    {
+      "teamName": "Atalanta",
+      "teamId": "atalanta",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/atalanta.webp"
+    },
+    {
+      "teamName": "Aberdeen",
+      "teamId": "aberdeen",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/aberdeen.webp"
+    },
+    {
+      "teamName": "Al Ahli",
+      "teamId": "al-ahli",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/al-ahli.webp"
+    },
+    {
+      "teamName": "Al Nassr",
+      "teamId": "al-nassr",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/al-nassr.webp"
+    },
+    {
+      "teamName": "Al Ain FC (UAE)",
+      "teamId": "al-ain-fc-(uae)",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/al-ain-fc-(uae).webp"
+    },
+    {
+      "teamName": "Austria Wien",
+      "teamId": "austria-wien",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/austria-wien.webp"
+    },
+    {
+      "teamName": "Arminia Bielefeld",
+      "teamId": "arminia-bielefeld",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/arminia-bielefeld.webp"
+    },
+    {
+      "teamName": "AZ",
+      "teamId": "az",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/az.webp"
+    },
+    {
+      "teamName": "AFC Bournemouth",
+      "teamId": "afc-bournemouth",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/afc-bournemouth.webp"
+    },
+    {
+      "teamName": "ASC Oțelul Galați",
+      "teamId": "asc-oțelul-galați",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/asc-oțelul-galați.webp"
+    },
+    {
+      "teamName": "APOEL Nicosia FC",
+      "teamId": "apoel-nicosia-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/apoel-nicosia-fc.webp"
+    },
+    {
+      "teamName": "AIK",
+      "teamId": "aik",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/aik.webp"
+    },
+    {
+      "teamName": "Al Riyadh",
+      "teamId": "al-riyadh",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/al-riyadh.webp"
+    },
+    {
+      "teamName": "Al Taawoun",
+      "teamId": "al-taawoun",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/al-taawoun.webp"
+    },
+    {
+      "teamName": "AJ Auxerre",
+      "teamId": "aj-auxerre",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/aj-auxerre.webp"
+    },
+    {
+      "teamName": "AGF",
+      "teamId": "agf",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/agf.webp"
+    },
+    {
+      "teamName": "Antalyaspor",
+      "teamId": "antalyaspor",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/antalyaspor.webp"
+    },
+    {
+      "teamName": "Argentinos Juniors",
+      "teamId": "argentinos-juniors",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/argentinos-juniors.webp"
+    },
+    {
+      "teamName": "Al Shabab",
+      "teamId": "al-shabab",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/al-shabab.webp"
+    },
+    {
+      "teamName": "Always Ready",
+      "teamId": "always-ready",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/always-ready.webp"
+    },
+    {
+      "teamName": "AD Alcorcón",
+      "teamId": "ad-alcorcón",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ad-alcorcón.webp"
+    },
+    {
+      "teamName": "Austin FC",
+      "teamId": "austin-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/austin-fc.webp"
+    },
+    {
+      "teamName": "Adelaide United",
+      "teamId": "adelaide-united",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/adelaide-united.webp"
+    },
+    {
+      "teamName": "Al Tai",
+      "teamId": "al-tai",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/al-tai.webp"
+    },
+    {
+      "teamName": "Al Wehda",
+      "teamId": "al-wehda",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/al-wehda.webp"
+    },
+    {
+      "teamName": "Al Raed",
+      "teamId": "al-raed",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/al-raed.webp"
+    },
+    {
+      "teamName": "Al Fateh",
+      "teamId": "al-fateh",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/al-fateh.webp"
+    },
+    {
+      "teamName": "Arsenal de Sarandí",
+      "teamId": "arsenal-de-sarandí",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/arsenal-de-sarandí.webp"
+    },
+    {
+      "teamName": "Al Fayha",
+      "teamId": "al-fayha",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/al-fayha.webp"
+    },
+    {
+      "teamName": "Atlético Tucumán",
+      "teamId": "atlético-tucumán",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/atlético-tucumán.webp"
+    },
+    {
+      "teamName": "Al Ettifaq",
+      "teamId": "al-ettifaq",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/al-ettifaq.webp"
+    },
+    {
+      "teamName": "Athletico Paranaense",
+      "teamId": "athletico-paranaense",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/athletico-paranaense.webp"
+    },
+    {
+      "teamName": "Angers SCO",
+      "teamId": "angers-sco",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/angers-sco.webp"
+    },
+    {
+      "teamName": "Austria Lustenau",
+      "teamId": "austria-lustenau",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/austria-lustenau.webp"
+    },
+    {
+      "teamName": "Alanyaspor",
+      "teamId": "alanyaspor",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/alanyaspor.webp"
+    },
+    {
+      "teamName": "AFC Wimbledon",
+      "teamId": "afc-wimbledon",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/afc-wimbledon.webp"
+    },
+    {
+      "teamName": "AC Monza",
+      "teamId": "ac-monza",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ac-monza.webp"
+    },
+    {
+      "teamName": "Abha Club",
+      "teamId": "abha-club",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/abha-club.webp"
+    },
+    {
+      "teamName": "Adana Demirspor",
+      "teamId": "adana-demirspor",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/adana-demirspor.webp"
+    },
+    {
+      "teamName": "Asociación Deportiva Tarma",
+      "teamId": "asociación-deportiva-tarma",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/asociación-deportiva-tarma.webp"
+    },
+    {
+      "teamName": "Amiens SC",
+      "teamId": "amiens-sc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/amiens-sc.webp"
+    },
+    {
+      "teamName": "Ascoli",
+      "teamId": "ascoli",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ascoli.webp"
+    },
+    {
+      "teamName": "Albacete Balompié",
+      "teamId": "albacete-balompié",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/albacete-balompié.webp"
+    },
+    {
+      "teamName": "Altach",
+      "teamId": "altach",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/altach.webp"
+    },
+    {
+      "teamName": "Aalesunds FK",
+      "teamId": "aalesunds-fk",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/aalesunds-fk.webp"
+    },
+    {
+      "teamName": "Austria Klagenfurt",
+      "teamId": "austria-klagenfurt",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/austria-klagenfurt.webp"
+    },
+    {
+      "teamName": "Alianza FC",
+      "teamId": "alianza-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/alianza-fc.webp"
+    },
+    {
+      "teamName": "Al Khaleej",
+      "teamId": "al-khaleej",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/al-khaleej.webp"
+    },
+    {
+      "teamName": "Al Okhdood",
+      "teamId": "al-okhdood",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/al-okhdood.webp"
+    },
+    {
+      "teamName": "Al Hazem",
+      "teamId": "al-hazem",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/al-hazem.webp"
+    },
+    {
+      "teamName": "Accrington Stanley",
+      "teamId": "accrington-stanley",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/accrington-stanley.webp"
+    },
+    {
+      "teamName": "Almere City FC",
+      "teamId": "almere-city-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/almere-city-fc.webp"
+    },
+    {
+      "teamName": "AC Ajaccio",
+      "teamId": "ac-ajaccio",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ac-ajaccio.webp"
+    },
+    {
+      "teamName": "Arouca",
+      "teamId": "arouca",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/arouca.webp"
+    },
+    {
+      "teamName": "Argentina",
+      "teamId": "argentina",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/argentina.webp"
+    }
+  ],
+  "I": [
+    {
+      "teamName": "Inter",
+      "teamId": "inter",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/inter.webp"
+    },
+    {
+      "teamName": "Inter Miami",
+      "teamId": "inter-miami",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/inter-miami.webp"
+    },
+    {
+      "teamName": "Independiente",
+      "teamId": "independiente",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/independiente.webp"
+    },
+    {
+      "teamName": "Internacional",
+      "teamId": "internacional",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/internacional.webp"
+    },
+    {
+      "teamName": "Istanbul Başakşehir FK",
+      "teamId": "istanbul-başakşehir-fk",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/istanbul-başakşehir-fk.webp"
+    },
+    {
+      "teamName": "Independiente Medellín",
+      "teamId": "independiente-medellín",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/independiente-medellín.webp"
+    },
+    {
+      "teamName": "Independiente del Valle",
+      "teamId": "independiente-del-valle",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/independiente-del-valle.webp"
+    },
+    {
+      "teamName": "IFK Göteborg",
+      "teamId": "ifk-göteborg",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ifk-göteborg.webp"
+    },
+    {
+      "teamName": "Ipswich Town",
+      "teamId": "ipswich-town",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ipswich-town.webp"
+    },
+    {
+      "teamName": "Incheon United",
+      "teamId": "incheon-united",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/incheon-united.webp"
+    },
+    {
+      "teamName": "Instituto de Córdoba",
+      "teamId": "instituto-de-córdoba",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/instituto-de-córdoba.webp"
+    },
+    {
+      "teamName": "IFK Norrköping",
+      "teamId": "ifk-norrköping",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ifk-norrköping.webp"
+    },
+    {
+      "teamName": "IK Sirius",
+      "teamId": "ik-sirius",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ik-sirius.webp"
+    },
+    {
+      "teamName": "IF Elfsborg",
+      "teamId": "if-elfsborg",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/if-elfsborg.webp"
+    },
+    {
+      "teamName": "IF Brommapojkarna",
+      "teamId": "if-brommapojkarna",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/if-brommapojkarna.webp"
+    },
+    {
+      "teamName": "IFK Värnamo",
+      "teamId": "ifk-värnamo",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ifk-värnamo.webp"
+    },
+    {
+      "teamName": "Italy",
+      "teamId": "italy",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/italy.webp"
+    },
+    {
+      "teamName": "Iceland",
+      "teamId": "iceland",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/iceland.webp"
+    }
+  ],
+  "G": [
+    {
+      "teamName": "Galatasaray",
+      "teamId": "galatasaray",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/galatasaray.webp"
+    },
+    {
+      "teamName": "Grêmio",
+      "teamId": "grêmio",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/grêmio.webp"
+    },
+    {
+      "teamName": "Genk",
+      "teamId": "genk",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/genk.webp"
+    },
+    {
+      "teamName": "Gent",
+      "teamId": "gent",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/gent.webp"
+    },
+    {
+      "teamName": "Girondins de Bordeaux",
+      "teamId": "girondins-de-bordeaux",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/girondins-de-bordeaux.webp"
+    },
+    {
+      "teamName": "Górnik Zabrze",
+      "teamId": "górnik-zabrze",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/górnik-zabrze.webp"
+    },
+    {
+      "teamName": "Grasshopper Club Zürich",
+      "teamId": "grasshopper-club-zürich",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/grasshopper-club-zürich.webp"
+    },
+    {
+      "teamName": "Genoa",
+      "teamId": "genoa",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/genoa.webp"
+    },
+    {
+      "teamName": "Granada CF",
+      "teamId": "granada-cf",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/granada-cf.webp"
+    },
+    {
+      "teamName": "Gimnasia y Esgrima La Plata",
+      "teamId": "gimnasia-y-esgrima-la-plata",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/gimnasia-y-esgrima-la-plata.webp"
+    },
+    {
+      "teamName": "Guaraní (Paraguay)",
+      "teamId": "guaraní-(paraguay)",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/guaraní-(paraguay).webp"
+    },
+    {
+      "teamName": "Girona FC",
+      "teamId": "girona-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/girona-fc.webp"
+    },
+    {
+      "teamName": "Godoy Cruz",
+      "teamId": "godoy-cruz",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/godoy-cruz.webp"
+    },
+    {
+      "teamName": "Getafe CF",
+      "teamId": "getafe-cf",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/getafe-cf.webp"
+    },
+    {
+      "teamName": "Go Ahead Eagles",
+      "teamId": "go-ahead-eagles",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/go-ahead-eagles.webp"
+    },
+    {
+      "teamName": "Gwangju FC",
+      "teamId": "gwangju-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/gwangju-fc.webp"
+    },
+    {
+      "teamName": "Gangwon FC",
+      "teamId": "gangwon-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/gangwon-fc.webp"
+    },
+    {
+      "teamName": "Gaziantep FK",
+      "teamId": "gaziantep-fk",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/gaziantep-fk.webp"
+    },
+    {
+      "teamName": "Gil Vicente FC",
+      "teamId": "gil-vicente-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/gil-vicente-fc.webp"
+    },
+    {
+      "teamName": "Grenoble Foot 38",
+      "teamId": "grenoble-foot-38",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/grenoble-foot-38.webp"
+    },
+    {
+      "teamName": "Gillingham",
+      "teamId": "gillingham",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/gillingham.webp"
+    },
+    {
+      "teamName": "Grimsby Town",
+      "teamId": "grimsby-town",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/grimsby-town.webp"
+    },
+    {
+      "teamName": "Germany",
+      "teamId": "germany",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/germany.webp"
+    },
+    {
+      "teamName": "Ghana",
+      "teamId": "ghana",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ghana.webp"
+    }
+  ],
+  "C": [
+    {
+      "teamName": "Chelsea",
+      "teamId": "chelsea",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/chelsea.webp"
+    },
+    {
+      "teamName": "Celtic",
+      "teamId": "celtic",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/celtic.webp"
+    },
+    {
+      "teamName": "Corinthians",
+      "teamId": "corinthians",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/corinthians.webp"
+    },
+    {
+      "teamName": "Colo-Colo",
+      "teamId": "colo-colo",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/colo-colo.webp"
+    },
+    {
+      "teamName": "Cerro Porteño",
+      "teamId": "cerro-porteño",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cerro-porteño.webp"
+    },
+    {
+      "teamName": "Cruzeiro",
+      "teamId": "cruzeiro",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cruzeiro.webp"
+    },
+    {
+      "teamName": "Crystal Palace",
+      "teamId": "crystal-palace",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/crystal-palace.webp"
+    },
+    {
+      "teamName": "Club Brugge",
+      "teamId": "club-brugge",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/club-brugge.webp"
+    },
+    {
+      "teamName": "Carabobo FC",
+      "teamId": "carabobo-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/carabobo-fc.webp"
+    },
+    {
+      "teamName": "Cardiff City",
+      "teamId": "cardiff-city",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cardiff-city.webp"
+    },
+    {
+      "teamName": "Cádiz CF",
+      "teamId": "cádiz-cf",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cádiz-cf.webp"
+    },
+    {
+      "teamName": "Colón",
+      "teamId": "colón",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/colón.webp"
+    },
+    {
+      "teamName": "CFR Cluj",
+      "teamId": "cfr-cluj",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cfr-cluj.webp"
+    },
+    {
+      "teamName": "Cercle Brugge",
+      "teamId": "cercle-brugge",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cercle-brugge.webp"
+    },
+    {
+      "teamName": "Caracas FC",
+      "teamId": "caracas-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/caracas-fc.webp"
+    },
+    {
+      "teamName": "Coventry City",
+      "teamId": "coventry-city",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/coventry-city.webp"
+    },
+    {
+      "teamName": "Cracovia",
+      "teamId": "cracovia",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cracovia.webp"
+    },
+    {
+      "teamName": "Cagliari",
+      "teamId": "cagliari",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cagliari.webp"
+    },
+    {
+      "teamName": "Columbus Crew",
+      "teamId": "columbus-crew",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/columbus-crew.webp"
+    },
+    {
+      "teamName": "Cork City",
+      "teamId": "cork-city",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cork-city.webp"
+    },
+    {
+      "teamName": "CA Osasuna",
+      "teamId": "ca-osasuna",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ca-osasuna.webp"
+    },
+    {
+      "teamName": "Charleroi",
+      "teamId": "charleroi",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/charleroi.webp"
+    },
+    {
+      "teamName": "Chennaiyin FC",
+      "teamId": "chennaiyin-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/chennaiyin-fc.webp"
+    },
+    {
+      "teamName": "CD Tenerife",
+      "teamId": "cd-tenerife",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cd-tenerife.webp"
+    },
+    {
+      "teamName": "Charlton Athletic",
+      "teamId": "charlton-athletic",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/charlton-athletic.webp"
+    },
+    {
+      "teamName": "CF Montréal",
+      "teamId": "cf-montréal",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cf-montréal.webp"
+    },
+    {
+      "teamName": "Cremonese",
+      "teamId": "cremonese",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cremonese.webp"
+    },
+    {
+      "teamName": "CD Leganés",
+      "teamId": "cd-leganés",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cd-leganés.webp"
+    },
+    {
+      "teamName": "CD Mirandés",
+      "teamId": "cd-mirandés",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cd-mirandés.webp"
+    },
+    {
+      "teamName": "Coquimbo Unido",
+      "teamId": "coquimbo-unido",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/coquimbo-unido.webp"
+    },
+    {
+      "teamName": "Carlisle United",
+      "teamId": "carlisle-united",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/carlisle-united.webp"
+    },
+    {
+      "teamName": "Chaves",
+      "teamId": "chaves",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/chaves.webp"
+    },
+    {
+      "teamName": "Central Coast Mariners",
+      "teamId": "central-coast-mariners",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/central-coast-mariners.webp"
+    },
+    {
+      "teamName": "Cangzhou Mighty Lions",
+      "teamId": "cangzhou-mighty-lions",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cangzhou-mighty-lions.webp"
+    },
+    {
+      "teamName": "Central Córdoba",
+      "teamId": "central-córdoba",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/central-córdoba.webp"
+    },
+    {
+      "teamName": "Changchun Yatai",
+      "teamId": "changchun-yatai",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/changchun-yatai.webp"
+    },
+    {
+      "teamName": "Colorado Rapids",
+      "teamId": "colorado-rapids",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/colorado-rapids.webp"
+    },
+    {
+      "teamName": "Chicago Fire FC",
+      "teamId": "chicago-fire-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/chicago-fire-fc.webp"
+    },
+    {
+      "teamName": "Cosenza",
+      "teamId": "cosenza",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cosenza.webp"
+    },
+    {
+      "teamName": "Cheltenham Town",
+      "teamId": "cheltenham-town",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cheltenham-town.webp"
+    },
+    {
+      "teamName": "Cuiabá",
+      "teamId": "cuiabá",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cuiabá.webp"
+    },
+    {
+      "teamName": "Cerro Largo",
+      "teamId": "cerro-largo",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cerro-largo.webp"
+    },
+    {
+      "teamName": "Chengdu Rongcheng F.C.",
+      "teamId": "chengdu-rongcheng-f.c.",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/chengdu-rongcheng-f.c..webp"
+    },
+    {
+      "teamName": "Cambridge United",
+      "teamId": "cambridge-united",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cambridge-united.webp"
+    },
+    {
+      "teamName": "Crewe Alexandra",
+      "teamId": "crewe-alexandra",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/crewe-alexandra.webp"
+    },
+    {
+      "teamName": "Como",
+      "teamId": "como",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/como.webp"
+    },
+    {
+      "teamName": "Charlotte FC",
+      "teamId": "charlotte-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/charlotte-fc.webp"
+    },
+    {
+      "teamName": "CD Eldense",
+      "teamId": "cd-eldense",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cd-eldense.webp"
+    },
+    {
+      "teamName": "Casa Pia",
+      "teamId": "casa-pia",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/casa-pia.webp"
+    },
+    {
+      "teamName": "Clermont Foot",
+      "teamId": "clermont-foot",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/clermont-foot.webp"
+    },
+    {
+      "teamName": "Crawley Town",
+      "teamId": "crawley-town",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/crawley-town.webp"
+    },
+    {
+      "teamName": "Catanzaro",
+      "teamId": "catanzaro",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/catanzaro.webp"
+    },
+    {
+      "teamName": "Cobresal",
+      "teamId": "cobresal",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cobresal.webp"
+    },
+    {
+      "teamName": "Colchester United",
+      "teamId": "colchester-united",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/colchester-united.webp"
+    },
+    {
+      "teamName": "Cittadella",
+      "teamId": "cittadella",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cittadella.webp"
+    },
+    {
+      "teamName": "Czech Republic",
+      "teamId": "czech-republic",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/czech-republic.webp"
+    },
+    {
+      "teamName": "Croatia",
+      "teamId": "croatia",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/croatia.webp"
+    }
+  ],
+  "L": [
+    {
+      "teamName": "Liverpool",
+      "teamId": "liverpool",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/liverpool.webp"
+    },
+    {
+      "teamName": "Los Angeles FC",
+      "teamId": "los-angeles-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/los-angeles-fc.webp"
+    },
+    {
+      "teamName": "Los Angeles Galaxy",
+      "teamId": "los-angeles-galaxy",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/los-angeles-galaxy.webp"
+    },
+    {
+      "teamName": "Leicester City",
+      "teamId": "leicester-city",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/leicester-city.webp"
+    },
+    {
+      "teamName": "Lazio",
+      "teamId": "lazio",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/lazio.webp"
+    },
+    {
+      "teamName": "Leeds United",
+      "teamId": "leeds-united",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/leeds-united.webp"
+    },
+    {
+      "teamName": "LDU Quito",
+      "teamId": "ldu-quito",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ldu-quito.webp"
+    },
+    {
+      "teamName": "Legia Warszawa",
+      "teamId": "legia-warszawa",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/legia-warszawa.webp"
+    },
+    {
+      "teamName": "Lech Poznań",
+      "teamId": "lech-poznań",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/lech-poznań.webp"
+    },
+    {
+      "teamName": "Libertad",
+      "teamId": "libertad",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/libertad.webp"
+    },
+    {
+      "teamName": "LOSC Lille",
+      "teamId": "losc-lille",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/losc-lille.webp"
+    },
+    {
+      "teamName": "Levante UD",
+      "teamId": "levante-ud",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/levante-ud.webp"
+    },
+    {
+      "teamName": "Lanús",
+      "teamId": "lanús",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/lanús.webp"
+    },
+    {
+      "teamName": "Luton Town",
+      "teamId": "luton-town",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/luton-town.webp"
+    },
+    {
+      "teamName": "Lillestrøm SK",
+      "teamId": "lillestrøm-sk",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/lillestrøm-sk.webp"
+    },
+    {
+      "teamName": "LASK",
+      "teamId": "lask",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/lask.webp"
+    },
+    {
+      "teamName": "Liverpool Fútbol Club Uruguay",
+      "teamId": "liverpool-fútbol-club-uruguay",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/liverpool-fútbol-club-uruguay.webp"
+    },
+    {
+      "teamName": "Le Havre AC",
+      "teamId": "le-havre-ac",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/le-havre-ac.webp"
+    },
+    {
+      "teamName": "Lecce",
+      "teamId": "lecce",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/lecce.webp"
+    },
+    {
+      "teamName": "Lincoln City",
+      "teamId": "lincoln-city",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/lincoln-city.webp"
+    },
+    {
+      "teamName": "Lyngby BK",
+      "teamId": "lyngby-bk",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/lyngby-bk.webp"
+    },
+    {
+      "teamName": "Leyton Orient",
+      "teamId": "leyton-orient",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/leyton-orient.webp"
+    },
+    {
+      "teamName": "Lecco",
+      "teamId": "lecco",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/lecco.webp"
+    },
+    {
+      "teamName": "Livingston",
+      "teamId": "livingston",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/livingston.webp"
+    }
+  ],
+  "S": [
+    {
+      "teamName": "Sevilla FC",
+      "teamId": "sevilla-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sevilla-fc.webp"
+    },
+    {
+      "teamName": "Shakhtar Donetsk",
+      "teamId": "shakhtar-donetsk",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/shakhtar-donetsk.webp"
+    },
+    {
+      "teamName": "Seattle Sounders",
+      "teamId": "seattle-sounders",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/seattle-sounders.webp"
+    },
+    {
+      "teamName": "Sporting CP",
+      "teamId": "sporting-cp",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sporting-cp.webp"
+    },
+    {
+      "teamName": "São Paulo",
+      "teamId": "são-paulo",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/são-paulo.webp"
+    },
+    {
+      "teamName": "San Lorenzo de Almagro",
+      "teamId": "san-lorenzo-de-almagro",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/san-lorenzo-de-almagro.webp"
+    },
+    {
+      "teamName": "Sturm Graz",
+      "teamId": "sturm-graz",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sturm-graz.webp"
+    },
+    {
+      "teamName": "SK Rapid",
+      "teamId": "sk-rapid",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sk-rapid.webp"
+    },
+    {
+      "teamName": "Southampton",
+      "teamId": "southampton",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/southampton.webp"
+    },
+    {
+      "teamName": "Sparta Praha",
+      "teamId": "sparta-praha",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sparta-praha.webp"
+    },
+    {
+      "teamName": "Sunderland",
+      "teamId": "sunderland",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sunderland.webp"
+    },
+    {
+      "teamName": "Sampdoria",
+      "teamId": "sampdoria",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sampdoria.webp"
+    },
+    {
+      "teamName": "Stade Rennais",
+      "teamId": "stade-rennais",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/stade-rennais.webp"
+    },
+    {
+      "teamName": "Sheffield Wednesday",
+      "teamId": "sheffield-wednesday",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sheffield-wednesday.webp"
+    },
+    {
+      "teamName": "Stoke City",
+      "teamId": "stoke-city",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/stoke-city.webp"
+    },
+    {
+      "teamName": "Sydney FC",
+      "teamId": "sydney-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sydney-fc.webp"
+    },
+    {
+      "teamName": "Suwon Bluewings",
+      "teamId": "suwon-bluewings",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/suwon-bluewings.webp"
+    },
+    {
+      "teamName": "SK Brann",
+      "teamId": "sk-brann",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sk-brann.webp"
+    },
+    {
+      "teamName": "Standard Liège",
+      "teamId": "standard-liège",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/standard-liège.webp"
+    },
+    {
+      "teamName": "Slavia Praha",
+      "teamId": "slavia-praha",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/slavia-praha.webp"
+    },
+    {
+      "teamName": "Salernitana",
+      "teamId": "salernitana",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/salernitana.webp"
+    },
+    {
+      "teamName": "Shamrock Rovers",
+      "teamId": "shamrock-rovers",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/shamrock-rovers.webp"
+    },
+    {
+      "teamName": "Sparta Rotterdam",
+      "teamId": "sparta-rotterdam",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sparta-rotterdam.webp"
+    },
+    {
+      "teamName": "Sivasspor",
+      "teamId": "sivasspor",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sivasspor.webp"
+    },
+    {
+      "teamName": "Swansea City",
+      "teamId": "swansea-city",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/swansea-city.webp"
+    },
+    {
+      "teamName": "SV Waldhof Mannheim",
+      "teamId": "sv-waldhof-mannheim",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sv-waldhof-mannheim.webp"
+    },
+    {
+      "teamName": "Sheffield United",
+      "teamId": "sheffield-united",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sheffield-united.webp"
+    },
+    {
+      "teamName": "SV Darmstadt 98",
+      "teamId": "sv-darmstadt-98",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sv-darmstadt-98.webp"
+    },
+    {
+      "teamName": "SD Eibar",
+      "teamId": "sd-eibar",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sd-eibar.webp"
+    },
+    {
+      "teamName": "Stade de Reims",
+      "teamId": "stade-de-reims",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/stade-de-reims.webp"
+    },
+    {
+      "teamName": "Servette FC",
+      "teamId": "servette-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/servette-fc.webp"
+    },
+    {
+      "teamName": "Shanghai Port",
+      "teamId": "shanghai-port",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/shanghai-port.webp"
+    },
+    {
+      "teamName": "SC Bastia",
+      "teamId": "sc-bastia",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sc-bastia.webp"
+    },
+    {
+      "teamName": "SC Freiburg",
+      "teamId": "sc-freiburg",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sc-freiburg.webp"
+    },
+    {
+      "teamName": "Silkeborg IF",
+      "teamId": "silkeborg-if",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/silkeborg-if.webp"
+    },
+    {
+      "teamName": "San Jose Earthquakes",
+      "teamId": "san-jose-earthquakes",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/san-jose-earthquakes.webp"
+    },
+    {
+      "teamName": "Shandong Taishan",
+      "teamId": "shandong-taishan",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/shandong-taishan.webp"
+    },
+    {
+      "teamName": "St. Mirren",
+      "teamId": "st.-mirren",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/st.-mirren.webp"
+    },
+    {
+      "teamName": "Sepsi OSK",
+      "teamId": "sepsi-osk",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sepsi-osk.webp"
+    },
+    {
+      "teamName": "Spezia",
+      "teamId": "spezia",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/spezia.webp"
+    },
+    {
+      "teamName": "Sportivo Luqueño",
+      "teamId": "sportivo-luqueño",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sportivo-luqueño.webp"
+    },
+    {
+      "teamName": "Sport Huancayo",
+      "teamId": "sport-huancayo",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sport-huancayo.webp"
+    },
+    {
+      "teamName": "Shanghai Shenhua",
+      "teamId": "shanghai-shenhua",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/shanghai-shenhua.webp"
+    },
+    {
+      "teamName": "Sassuolo",
+      "teamId": "sassuolo",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sassuolo.webp"
+    },
+    {
+      "teamName": "Samsunspor",
+      "teamId": "samsunspor",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/samsunspor.webp"
+    },
+    {
+      "teamName": "Sint-Truiden",
+      "teamId": "sint-truiden",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sint-truiden.webp"
+    },
+    {
+      "teamName": "Stockport County",
+      "teamId": "stockport-county",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/stockport-county.webp"
+    },
+    {
+      "teamName": "Swindon Town",
+      "teamId": "swindon-town",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/swindon-town.webp"
+    },
+    {
+      "teamName": "Sporting KC",
+      "teamId": "sporting-kc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sporting-kc.webp"
+    },
+    {
+      "teamName": "Shelbourne",
+      "teamId": "shelbourne",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/shelbourne.webp"
+    },
+    {
+      "teamName": "Strømsgodset Toppfotball",
+      "teamId": "strømsgodset-toppfotball",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/strømsgodset-toppfotball.webp"
+    },
+    {
+      "teamName": "SC Paderborn 07",
+      "teamId": "sc-paderborn-07",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sc-paderborn-07.webp"
+    },
+    {
+      "teamName": "St Patrick's Athletic",
+      "teamId": "st-patrick's-athletic",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/st-patrick's-athletic.webp"
+    },
+    {
+      "teamName": "SM Caen",
+      "teamId": "sm-caen",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sm-caen.webp"
+    },
+    {
+      "teamName": "Stabæk Fotball",
+      "teamId": "stabæk-fotball",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/stabæk-fotball.webp"
+    },
+    {
+      "teamName": "St. Louis City SC",
+      "teamId": "st.-louis-city-sc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/st.-louis-city-sc.webp"
+    },
+    {
+      "teamName": "SV Elversberg",
+      "teamId": "sv-elversberg",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sv-elversberg.webp"
+    },
+    {
+      "teamName": "Sligo Rovers",
+      "teamId": "sligo-rovers",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sligo-rovers.webp"
+    },
+    {
+      "teamName": "Stade Brestois 29",
+      "teamId": "stade-brestois-29",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/stade-brestois-29.webp"
+    },
+    {
+      "teamName": "Suwon FC",
+      "teamId": "suwon-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/suwon-fc.webp"
+    },
+    {
+      "teamName": "Shenzhen FC",
+      "teamId": "shenzhen-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/shenzhen-fc.webp"
+    },
+    {
+      "teamName": "Sarpsborg 08",
+      "teamId": "sarpsborg-08",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sarpsborg-08.webp"
+    },
+    {
+      "teamName": "Sportivo Ameliano",
+      "teamId": "sportivo-ameliano",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sportivo-ameliano.webp"
+    },
+    {
+      "teamName": "Sportivo Trinidense",
+      "teamId": "sportivo-trinidense",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sportivo-trinidense.webp"
+    },
+    {
+      "teamName": "SSV Ulm 1846",
+      "teamId": "ssv-ulm-1846",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ssv-ulm-1846.webp"
+    },
+    {
+      "teamName": "St. Johnstone",
+      "teamId": "st.-johnstone",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/st.-johnstone.webp"
+    },
+    {
+      "teamName": "Stade Lavallois MFC",
+      "teamId": "stade-lavallois-mfc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/stade-lavallois-mfc.webp"
+    },
+    {
+      "teamName": "SpVgg Unterhaching",
+      "teamId": "spvgg-unterhaching",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/spvgg-unterhaching.webp"
+    },
+    {
+      "teamName": "Shrewsbury Town",
+      "teamId": "shrewsbury-town",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/shrewsbury-town.webp"
+    },
+    {
+      "teamName": "SpVgg Greuther Fürth",
+      "teamId": "spvgg-greuther-fürth",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/spvgg-greuther-fürth.webp"
+    },
+    {
+      "teamName": "Stal Mielec",
+      "teamId": "stal-mielec",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/stal-mielec.webp"
+    },
+    {
+      "teamName": "SD Huesca",
+      "teamId": "sd-huesca",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sd-huesca.webp"
+    },
+    {
+      "teamName": "SD Amorebieta",
+      "teamId": "sd-amorebieta",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sd-amorebieta.webp"
+    },
+    {
+      "teamName": "Salford City",
+      "teamId": "salford-city",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/salford-city.webp"
+    },
+    {
+      "teamName": "Stevenage",
+      "teamId": "stevenage",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/stevenage.webp"
+    },
+    {
+      "teamName": "Sutton United",
+      "teamId": "sutton-united",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sutton-united.webp"
+    },
+    {
+      "teamName": "Sandefjord Fotball",
+      "teamId": "sandefjord-fotball",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sandefjord-fotball.webp"
+    },
+    {
+      "teamName": "SV Sandhausen",
+      "teamId": "sv-sandhausen",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sv-sandhausen.webp"
+    },
+    {
+      "teamName": "SC Verl",
+      "teamId": "sc-verl",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sc-verl.webp"
+    },
+    {
+      "teamName": "SC Freiburg II",
+      "teamId": "sc-freiburg-ii",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sc-freiburg-ii.webp"
+    },
+    {
+      "teamName": "Sarmiento",
+      "teamId": "sarmiento",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sarmiento.webp"
+    },
+    {
+      "teamName": "Südtirol",
+      "teamId": "südtirol",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/südtirol.webp"
+    },
+    {
+      "teamName": "SV Wehen Wiesbaden",
+      "teamId": "sv-wehen-wiesbaden",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sv-wehen-wiesbaden.webp"
+    },
+    {
+      "teamName": "Scotland",
+      "teamId": "scotland",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/scotland.webp"
+    },
+    {
+      "teamName": "Spain",
+      "teamId": "spain",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/spain.webp"
+    },
+    {
+      "teamName": "Sweden",
+      "teamId": "sweden",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sweden.webp"
+    }
+  ],
+  "E": [
+    {
+      "teamName": "Eintracht Frankfurt",
+      "teamId": "eintracht-frankfurt",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/eintracht-frankfurt.webp"
+    },
+    {
+      "teamName": "Everton",
+      "teamId": "everton",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/everton.webp"
+    },
+    {
+      "teamName": "East Bengal FC",
+      "teamId": "east-bengal-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/east-bengal-fc.webp"
+    },
+    {
+      "teamName": "Estudiantes de La Plata",
+      "teamId": "estudiantes-de-la-plata",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/estudiantes-de-la-plata.webp"
+    },
+    {
+      "teamName": "Eintracht Braunschweig",
+      "teamId": "eintracht-braunschweig",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/eintracht-braunschweig.webp"
+    },
+    {
+      "teamName": "Everton de Viña del Mar",
+      "teamId": "everton-de-viña-del-mar",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/everton-de-viña-del-mar.webp"
+    },
+    {
+      "teamName": "Empoli",
+      "teamId": "empoli",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/empoli.webp"
+    },
+    {
+      "teamName": "En Avant Guingamp",
+      "teamId": "en-avant-guingamp",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/en-avant-guingamp.webp"
+    },
+    {
+      "teamName": "Exeter City",
+      "teamId": "exeter-city",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/exeter-city.webp"
+    },
+    {
+      "teamName": "Estrela Amadora",
+      "teamId": "estrela-amadora",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/estrela-amadora.webp"
+    },
+    {
+      "teamName": "Erzgebirge Aue",
+      "teamId": "erzgebirge-aue",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/erzgebirge-aue.webp"
+    },
+    {
+      "teamName": "Elche CF",
+      "teamId": "elche-cf",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/elche-cf.webp"
+    },
+    {
+      "teamName": "Estoril",
+      "teamId": "estoril",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/estoril.webp"
+    },
+    {
+      "teamName": "ESTAC Troyes",
+      "teamId": "estac-troyes",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/estac-troyes.webp"
+    },
+    {
+      "teamName": "Eupen",
+      "teamId": "eupen",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/eupen.webp"
+    },
+    {
+      "teamName": "Excelsior",
+      "teamId": "excelsior",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/excelsior.webp"
+    },
+    {
+      "teamName": "England",
+      "teamId": "england",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/england.webp"
+    }
+  ],
+  "N": [
+    {
+      "teamName": "Napoli",
+      "teamId": "napoli",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/napoli.webp"
+    },
+    {
+      "teamName": "Newcastle United",
+      "teamId": "newcastle-united",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/newcastle-united.webp"
+    },
+    {
+      "teamName": "New York City FC",
+      "teamId": "new-york-city-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/new-york-city-fc.webp"
+    },
+    {
+      "teamName": "Nacional de Montevideo",
+      "teamId": "nacional-de-montevideo",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/nacional-de-montevideo.webp"
+    },
+    {
+      "teamName": "Newell's Old Boys",
+      "teamId": "newell's-old-boys",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/newell's-old-boys.webp"
+    },
+    {
+      "teamName": "Nottingham Forest",
+      "teamId": "nottingham-forest",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/nottingham-forest.webp"
+    },
+    {
+      "teamName": "NG - FA",
+      "teamId": "ng---fa",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ng---fa.webp"
+    },
+    {
+      "teamName": "Nacional Asunción",
+      "teamId": "nacional-asunción",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/nacional-asunción.webp"
+    },
+    {
+      "teamName": "Nashville SC",
+      "teamId": "nashville-sc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/nashville-sc.webp"
+    },
+    {
+      "teamName": "Norwich City",
+      "teamId": "norwich-city",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/norwich-city.webp"
+    },
+    {
+      "teamName": "New York Red Bulls",
+      "teamId": "new-york-red-bulls",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/new-york-red-bulls.webp"
+    },
+    {
+      "teamName": "NEC Nijmegen",
+      "teamId": "nec-nijmegen",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/nec-nijmegen.webp"
+    },
+    {
+      "teamName": "New England Revolution",
+      "teamId": "new-england-revolution",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/new-england-revolution.webp"
+    },
+    {
+      "teamName": "Newcastle Jets",
+      "teamId": "newcastle-jets",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/newcastle-jets.webp"
+    },
+    {
+      "teamName": "Nacional Potosí",
+      "teamId": "nacional-potosí",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/nacional-potosí.webp"
+    },
+    {
+      "teamName": "NorthEast United",
+      "teamId": "northeast-united",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/northeast-united.webp"
+    },
+    {
+      "teamName": "Northampton Town",
+      "teamId": "northampton-town",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/northampton-town.webp"
+    },
+    {
+      "teamName": "Notts County",
+      "teamId": "notts-county",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/notts-county.webp"
+    },
+    {
+      "teamName": "Newport County",
+      "teamId": "newport-county",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/newport-county.webp"
+    },
+    {
+      "teamName": "Nantong Zhiyun",
+      "teamId": "nantong-zhiyun",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/nantong-zhiyun.webp"
+    },
+    {
+      "teamName": "Northern Ireland",
+      "teamId": "northern-ireland",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/northern-ireland.webp"
+    },
+    {
+      "teamName": "Norway",
+      "teamId": "norway",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/norway.webp"
+    },
+    {
+      "teamName": "New Zealand",
+      "teamId": "new-zealand",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/new-zealand.webp"
+    }
+  ],
+  "O": [
+    {
+      "teamName": "Olympique de Marseille",
+      "teamId": "olympique-de-marseille",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/olympique-de-marseille.webp"
+    },
+    {
+      "teamName": "Olimpia Asunción",
+      "teamId": "olimpia-asunción",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/olimpia-asunción.webp"
+    },
+    {
+      "teamName": "Olympique Lyonnais",
+      "teamId": "olympique-lyonnais",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/olympique-lyonnais.webp"
+    },
+    {
+      "teamName": "Orlando City SC",
+      "teamId": "orlando-city-sc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/orlando-city-sc.webp"
+    },
+    {
+      "teamName": "OGC Nice",
+      "teamId": "ogc-nice",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ogc-nice.webp"
+    },
+    {
+      "teamName": "Odisha FC",
+      "teamId": "odisha-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/odisha-fc.webp"
+    },
+    {
+      "teamName": "OH Leuven",
+      "teamId": "oh-leuven",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/oh-leuven.webp"
+    },
+    {
+      "teamName": "Oxford United",
+      "teamId": "oxford-united",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/oxford-united.webp"
+    },
+    {
+      "teamName": "Odense Boldklub",
+      "teamId": "odense-boldklub",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/odense-boldklub.webp"
+    },
+    {
+      "teamName": "Odds Ballklubb",
+      "teamId": "odds-ballklubb",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/odds-ballklubb.webp"
+    }
+  ],
+  "V": [
+    {
+      "teamName": "Valencia CF",
+      "teamId": "valencia-cf",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/valencia-cf.webp"
+    },
+    {
+      "teamName": "VfB Stuttgart",
+      "teamId": "vfb-stuttgart",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/vfb-stuttgart.webp"
+    },
+    {
+      "teamName": "Villarreal CF",
+      "teamId": "villarreal-cf",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/villarreal-cf.webp"
+    },
+    {
+      "teamName": "Vitória de Guimarães",
+      "teamId": "vitória-de-guimarães",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/vitória-de-guimarães.webp"
+    },
+    {
+      "teamName": "Vélez Sarsfield",
+      "teamId": "vélez-sarsfield",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/vélez-sarsfield.webp"
+    },
+    {
+      "teamName": "Vålerenga Fotball",
+      "teamId": "vålerenga-fotball",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/vålerenga-fotball.webp"
+    },
+    {
+      "teamName": "Viktoria Plzeň",
+      "teamId": "viktoria-plzeň",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/viktoria-plzeň.webp"
+    },
+    {
+      "teamName": "Vitesse",
+      "teamId": "vitesse",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/vitesse.webp"
+    },
+    {
+      "teamName": "VfL Bochum",
+      "teamId": "vfl-bochum",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/vfl-bochum.webp"
+    },
+    {
+      "teamName": "Vancouver Whitecaps",
+      "teamId": "vancouver-whitecaps",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/vancouver-whitecaps.webp"
+    },
+    {
+      "teamName": "VfL Osnabrück",
+      "teamId": "vfl-osnabrück",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/vfl-osnabrück.webp"
+    },
+    {
+      "teamName": "Villarreal B",
+      "teamId": "villarreal-b",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/villarreal-b.webp"
+    },
+    {
+      "teamName": "Viking FK",
+      "teamId": "viking-fk",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/viking-fk.webp"
+    },
+    {
+      "teamName": "VfB Lübeck",
+      "teamId": "vfb-lübeck",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/vfb-lübeck.webp"
+    },
+    {
+      "teamName": "VfL Wolfsburg",
+      "teamId": "vfl-wolfsburg",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/vfl-wolfsburg.webp"
+    },
+    {
+      "teamName": "Venezia",
+      "teamId": "venezia",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/venezia.webp"
+    },
+    {
+      "teamName": "Vejle BK",
+      "teamId": "vejle-bk",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/vejle-bk.webp"
+    },
+    {
+      "teamName": "Valenciennes FC",
+      "teamId": "valenciennes-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/valenciennes-fc.webp"
+    },
+    {
+      "teamName": "Viktoria Köln",
+      "teamId": "viktoria-köln",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/viktoria-köln.webp"
+    },
+    {
+      "teamName": "Varbergs BoIS",
+      "teamId": "varbergs-bois",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/varbergs-bois.webp"
+    },
+    {
+      "teamName": "Viborg FF",
+      "teamId": "viborg-ff",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/viborg-ff.webp"
+    },
+    {
+      "teamName": "Vizela",
+      "teamId": "vizela",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/vizela.webp"
+    }
+  ],
+  "W": [
+    {
+      "teamName": "West Ham United",
+      "teamId": "west-ham-united",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/west-ham-united.webp"
+    },
+    {
+      "teamName": "Werder Bremen",
+      "teamId": "werder-bremen",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/werder-bremen.webp"
+    },
+    {
+      "teamName": "Wolverhampton Wanderers",
+      "teamId": "wolverhampton-wanderers",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/wolverhampton-wanderers.webp"
+    },
+    {
+      "teamName": "West Bromwich Albion",
+      "teamId": "west-bromwich-albion",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/west-bromwich-albion.webp"
+    },
+    {
+      "teamName": "Watford",
+      "teamId": "watford",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/watford.webp"
+    },
+    {
+      "teamName": "Widzew Łódź",
+      "teamId": "widzew-łódź",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/widzew-łódź.webp"
+    },
+    {
+      "teamName": "Wrexham",
+      "teamId": "wrexham",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/wrexham.webp"
+    },
+    {
+      "teamName": "Western Sydney Wanderers",
+      "teamId": "western-sydney-wanderers",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/western-sydney-wanderers.webp"
+    },
+    {
+      "teamName": "Wolfsberger AC",
+      "teamId": "wolfsberger-ac",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/wolfsberger-ac.webp"
+    },
+    {
+      "teamName": "Wellington Phoenix",
+      "teamId": "wellington-phoenix",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/wellington-phoenix.webp"
+    },
+    {
+      "teamName": "Wigan Athletic",
+      "teamId": "wigan-athletic",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/wigan-athletic.webp"
+    },
+    {
+      "teamName": "Westerlo",
+      "teamId": "westerlo",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/westerlo.webp"
+    },
+    {
+      "teamName": "Warta Poznań",
+      "teamId": "warta-poznań",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/warta-poznań.webp"
+    },
+    {
+      "teamName": "Wycombe Wanderers",
+      "teamId": "wycombe-wanderers",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/wycombe-wanderers.webp"
+    },
+    {
+      "teamName": "Wuhan Three Towns",
+      "teamId": "wuhan-three-towns",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/wuhan-three-towns.webp"
+    },
+    {
+      "teamName": "Walsall",
+      "teamId": "walsall",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/walsall.webp"
+    },
+    {
+      "teamName": "Western United FC",
+      "teamId": "western-united-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/western-united-fc.webp"
+    },
+    {
+      "teamName": "WSG Tirol",
+      "teamId": "wsg-tirol",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/wsg-tirol.webp"
+    },
+    {
+      "teamName": "Wales",
+      "teamId": "wales",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/wales.webp"
+    }
+  ],
+  "D": [
+    {
+      "teamName": "Dynamo Kyiv",
+      "teamId": "dynamo-kyiv",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/dynamo-kyiv.webp"
+    },
+    {
+      "teamName": "Dynamo Dresden",
+      "teamId": "dynamo-dresden",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/dynamo-dresden.webp"
+    },
+    {
+      "teamName": "Derby County",
+      "teamId": "derby-county",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/derby-county.webp"
+    },
+    {
+      "teamName": "Dinamo București",
+      "teamId": "dinamo-bucurești",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/dinamo-bucurești.webp"
+    },
+    {
+      "teamName": "Dinamo Zagreb",
+      "teamId": "dinamo-zagreb",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/dinamo-zagreb.webp"
+    },
+    {
+      "teamName": "Deportivo Táchira",
+      "teamId": "deportivo-táchira",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/deportivo-táchira.webp"
+    },
+    {
+      "teamName": "D.C. United",
+      "teamId": "d.c.-united",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/d.c.-united.webp"
+    },
+    {
+      "teamName": "Dundalk",
+      "teamId": "dundalk",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/dundalk.webp"
+    },
+    {
+      "teamName": "Djurgårdens IF",
+      "teamId": "djurgårdens-if",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/djurgårdens-if.webp"
+    },
+    {
+      "teamName": "Deportes Tolima",
+      "teamId": "deportes-tolima",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/deportes-tolima.webp"
+    },
+    {
+      "teamName": "Danubio FC",
+      "teamId": "danubio-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/danubio-fc.webp"
+    },
+    {
+      "teamName": "Defensa y Justicia",
+      "teamId": "defensa-y-justicia",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/defensa-y-justicia.webp"
+    },
+    {
+      "teamName": "Deportivo La Guaira",
+      "teamId": "deportivo-la-guaira",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/deportivo-la-guaira.webp"
+    },
+    {
+      "teamName": "Daejeon Hana Citizen",
+      "teamId": "daejeon-hana-citizen",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/daejeon-hana-citizen.webp"
+    },
+    {
+      "teamName": "Derry City",
+      "teamId": "derry-city",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/derry-city.webp"
+    },
+    {
+      "teamName": "Dundee FC",
+      "teamId": "dundee-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/dundee-fc.webp"
+    },
+    {
+      "teamName": "Deportivo Alavés",
+      "teamId": "deportivo-alavés",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/deportivo-alavés.webp"
+    },
+    {
+      "teamName": "Doncaster Rovers",
+      "teamId": "doncaster-rovers",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/doncaster-rovers.webp"
+    },
+    {
+      "teamName": "Daegu FC",
+      "teamId": "daegu-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/daegu-fc.webp"
+    },
+    {
+      "teamName": "Damac FC",
+      "teamId": "damac-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/damac-fc.webp"
+    },
+    {
+      "teamName": "Dalian Professional",
+      "teamId": "dalian-professional",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/dalian-professional.webp"
+    },
+    {
+      "teamName": "Deportivo Garcilaso",
+      "teamId": "deportivo-garcilaso",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/deportivo-garcilaso.webp"
+    },
+    {
+      "teamName": "Deportivo Cuenca",
+      "teamId": "deportivo-cuenca",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/deportivo-cuenca.webp"
+    },
+    {
+      "teamName": "Drogheda United",
+      "teamId": "drogheda-united",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/drogheda-united.webp"
+    },
+    {
+      "teamName": "Delfín SC",
+      "teamId": "delfín-sc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/delfín-sc.webp"
+    },
+    {
+      "teamName": "Degerfors IF",
+      "teamId": "degerfors-if",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/degerfors-if.webp"
+    },
+    {
+      "teamName": "Denmark",
+      "teamId": "denmark",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/denmark.webp"
+    }
+  ],
+  "U": [
+    {
+      "teamName": "Universidad Católica",
+      "teamId": "universidad-católica",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/universidad-católica.webp"
+    },
+    {
+      "teamName": "Universitario de Deportes",
+      "teamId": "universitario-de-deportes",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/universitario-de-deportes.webp"
+    },
+    {
+      "teamName": "Universitatea Cluj",
+      "teamId": "universitatea-cluj",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/universitatea-cluj.webp"
+    },
+    {
+      "teamName": "UTA Arad",
+      "teamId": "uta-arad",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/uta-arad.webp"
+    },
+    {
+      "teamName": "Ulsan HD FC",
+      "teamId": "ulsan-hd-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ulsan-hd-fc.webp"
+    },
+    {
+      "teamName": "UD Almería",
+      "teamId": "ud-almería",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ud-almería.webp"
+    },
+    {
+      "teamName": "Union Saint-Gilloise",
+      "teamId": "union-saint-gilloise",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/union-saint-gilloise.webp"
+    },
+    {
+      "teamName": "UD Las Palmas",
+      "teamId": "ud-las-palmas",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ud-las-palmas.webp"
+    },
+    {
+      "teamName": "Universitatea Craiova",
+      "teamId": "universitatea-craiova",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/universitatea-craiova.webp"
+    },
+    {
+      "teamName": "Universidad Católica del Ecuador",
+      "teamId": "universidad-católica-del-ecuador",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/universidad-católica-del-ecuador.webp"
+    },
+    {
+      "teamName": "Unión de Santa Fe",
+      "teamId": "unión-de-santa-fe",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/unión-de-santa-fe.webp"
+    },
+    {
+      "teamName": "Udinese",
+      "teamId": "udinese",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/udinese.webp"
+    },
+    {
+      "teamName": "Unión La Calera",
+      "teamId": "unión-la-calera",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/unión-la-calera.webp"
+    },
+    {
+      "teamName": "US Concarneau",
+      "teamId": "us-concarneau",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/us-concarneau.webp"
+    },
+    {
+      "teamName": "Universitario de Vinto",
+      "teamId": "universitario-de-vinto",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/universitario-de-vinto.webp"
+    },
+    {
+      "teamName": "Universidad César Vallejo",
+      "teamId": "universidad-césar-vallejo",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/universidad-césar-vallejo.webp"
+    },
+    {
+      "teamName": "UCD",
+      "teamId": "ucd",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ucd.webp"
+    },
+    {
+      "teamName": "USL Dunkerque",
+      "teamId": "usl-dunkerque",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/usl-dunkerque.webp"
+    },
+    {
+      "teamName": "Ukraine",
+      "teamId": "ukraine",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ukraine.webp"
+    },
+    {
+      "teamName": "United States",
+      "teamId": "united-states",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/united-states.webp"
+    }
+  ],
+  "H": [
+    {
+      "teamName": "Hibernian",
+      "teamId": "hibernian",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/hibernian.webp"
+    },
+    {
+      "teamName": "Heart of Midlothian",
+      "teamId": "heart-of-midlothian",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/heart-of-midlothian.webp"
+    },
+    {
+      "teamName": "Hamburger SV",
+      "teamId": "hamburger-sv",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/hamburger-sv.webp"
+    },
+    {
+      "teamName": "Hajduk Split",
+      "teamId": "hajduk-split",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/hajduk-split.webp"
+    },
+    {
+      "teamName": "Huracán",
+      "teamId": "huracán",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/huracán.webp"
+    },
+    {
+      "teamName": "Hertha BSC",
+      "teamId": "hertha-bsc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/hertha-bsc.webp"
+    },
+    {
+      "teamName": "Huddersfield Town",
+      "teamId": "huddersfield-town",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/huddersfield-town.webp"
+    },
+    {
+      "teamName": "HJK Helsinki",
+      "teamId": "hjk-helsinki",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/hjk-helsinki.webp"
+    },
+    {
+      "teamName": "Hull City",
+      "teamId": "hull-city",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/hull-city.webp"
+    },
+    {
+      "teamName": "Hannover 96",
+      "teamId": "hannover-96",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/hannover-96.webp"
+    },
+    {
+      "teamName": "Hansa Rostock",
+      "teamId": "hansa-rostock",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/hansa-rostock.webp"
+    },
+    {
+      "teamName": "Hellas Verona",
+      "teamId": "hellas-verona",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/hellas-verona.webp"
+    },
+    {
+      "teamName": "Houston Dynamo",
+      "teamId": "houston-dynamo",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/houston-dynamo.webp"
+    },
+    {
+      "teamName": "Hammarby IF",
+      "teamId": "hammarby-if",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/hammarby-if.webp"
+    },
+    {
+      "teamName": "Hallescher FC",
+      "teamId": "hallescher-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/hallescher-fc.webp"
+    },
+    {
+      "teamName": "Heracles Almelo",
+      "teamId": "heracles-almelo",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/heracles-almelo.webp"
+    },
+    {
+      "teamName": "Holstein Kiel",
+      "teamId": "holstein-kiel",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/holstein-kiel.webp"
+    },
+    {
+      "teamName": "Hyderabad FC",
+      "teamId": "hyderabad-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/hyderabad-fc.webp"
+    },
+    {
+      "teamName": "Huachipato",
+      "teamId": "huachipato",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/huachipato.webp"
+    },
+    {
+      "teamName": "Halmstads BK",
+      "teamId": "halmstads-bk",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/halmstads-bk.webp"
+    },
+    {
+      "teamName": "Henan FC",
+      "teamId": "henan-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/henan-fc.webp"
+    },
+    {
+      "teamName": "Hatayspor",
+      "teamId": "hatayspor",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/hatayspor.webp"
+    },
+    {
+      "teamName": "Hvidovre IF",
+      "teamId": "hvidovre-if",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/hvidovre-if.webp"
+    },
+    {
+      "teamName": "Hartberg",
+      "teamId": "hartberg",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/hartberg.webp"
+    },
+    {
+      "teamName": "HamKam Fotball",
+      "teamId": "hamkam-fotball",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/hamkam-fotball.webp"
+    },
+    {
+      "teamName": "Harrogate Town",
+      "teamId": "harrogate-town",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/harrogate-town.webp"
+    },
+    {
+      "teamName": "Holland",
+      "teamId": "holland",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/holland.webp"
+    },
+    {
+      "teamName": "Hungary",
+      "teamId": "hungary",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/hungary.webp"
+    }
+  ],
+  "K": [
+    {
+      "teamName": "Kerala Blasters FC",
+      "teamId": "kerala-blasters-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/kerala-blasters-fc.webp"
+    },
+    {
+      "teamName": "KV Mechelen",
+      "teamId": "kv-mechelen",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/kv-mechelen.webp"
+    },
+    {
+      "teamName": "Karlsruher SC",
+      "teamId": "karlsruher-sc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/karlsruher-sc.webp"
+    },
+    {
+      "teamName": "Kasımpaşa",
+      "teamId": "kasımpaşa",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/kasımpaşa.webp"
+    },
+    {
+      "teamName": "Konyaspor",
+      "teamId": "konyaspor",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/konyaspor.webp"
+    },
+    {
+      "teamName": "Kilmarnock",
+      "teamId": "kilmarnock",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/kilmarnock.webp"
+    },
+    {
+      "teamName": "Kortrijk",
+      "teamId": "kortrijk",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/kortrijk.webp"
+    },
+    {
+      "teamName": "Kalmar FF",
+      "teamId": "kalmar-ff",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/kalmar-ff.webp"
+    },
+    {
+      "teamName": "Kayserispor",
+      "teamId": "kayserispor",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/kayserispor.webp"
+    },
+    {
+      "teamName": "Korona Kielce",
+      "teamId": "korona-kielce",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/korona-kielce.webp"
+    }
+  ],
+  "s": [
+    {
+      "teamName": "sc Heerenveen",
+      "teamId": "sc-heerenveen",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/sc-heerenveen.webp"
+    }
+  ],
+  "Ś": [
+    {
+      "teamName": "Śląsk Wrocław",
+      "teamId": "śląsk-wrocław",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/śląsk-wrocław.webp"
+    }
+  ],
+  "İ": [
+    {
+      "teamName": "İstanbulspor",
+      "teamId": "i̇stanbulspor",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/i̇stanbulspor.webp"
+    }
+  ],
+  "Ł": [
+    {
+      "teamName": "ŁKS Łódź",
+      "teamId": "łks-łódź",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/łks-łódź.webp"
+    }
+  ],
+  "Z": [
+    {
+      "teamName": "Zagłębie Lubin",
+      "teamId": "zagłębie-lubin",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/zagłębie-lubin.webp"
+    },
+    {
+      "teamName": "Zhejiang Professional FC",
+      "teamId": "zhejiang-professional-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/zhejiang-professional-fc.webp"
+    }
+  ],
+  "Q": [
+    {
+      "teamName": "Queens Park Rangers",
+      "teamId": "queens-park-rangers",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/queens-park-rangers.webp"
+    },
+    {
+      "teamName": "Qingdao Hainiu FC",
+      "teamId": "qingdao-hainiu-fc",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/qingdao-hainiu-fc.webp"
+    },
+    {
+      "teamName": "Quevilly Rouen Métropole",
+      "teamId": "quevilly-rouen-métropole",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/quevilly-rouen-métropole.webp"
+    },
+    {
+      "teamName": "Qatar",
+      "teamId": "qatar",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/qatar.webp"
+    }
+  ],
+  "Ç": [
+    {
+      "teamName": "Çaykur Rizespor",
+      "teamId": "çaykur-rizespor",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/çaykur-rizespor.webp"
+    }
+  ],
+  "Y": [
+    {
+      "teamName": "Yverdon-Sport",
+      "teamId": "yverdon-sport",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/yverdon-sport.webp"
+    },
+    {
+      "teamName": "Youth Squad",
+      "teamId": "youth-squad",
+      "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/youth-squad.webp"
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+[
+  {
+    "teamName": "Chelsea",
+    "teamId": "chelsea",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/chelsea.webp"
+  },
+  {
+    "teamName": "Celtic",
+    "teamId": "celtic",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/celtic.webp"
+  },
+  {
+    "teamName": "Corinthians",
+    "teamId": "corinthians",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/corinthians.webp"
+  },
+  {
+    "teamName": "Colo-Colo",
+    "teamId": "colo-colo",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/colo-colo.webp"
+  },
+  {
+    "teamName": "Cerro Porteño",
+    "teamId": "cerro-porteño",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cerro-porteño.webp"
+  },
+  {
+    "teamName": "Cruzeiro",
+    "teamId": "cruzeiro",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cruzeiro.webp"
+  },
+  {
+    "teamName": "Crystal Palace",
+    "teamId": "crystal-palace",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/crystal-palace.webp"
+  },
+  {
+    "teamName": "Club Brugge",
+    "teamId": "club-brugge",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/club-brugge.webp"
+  },
+  {
+    "teamName": "Carabobo FC",
+    "teamId": "carabobo-fc",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/carabobo-fc.webp"
+  },
+  {
+    "teamName": "Cardiff City",
+    "teamId": "cardiff-city",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cardiff-city.webp"
+  },
+  {
+    "teamName": "Cádiz CF",
+    "teamId": "cádiz-cf",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cádiz-cf.webp"
+  },
+  {
+    "teamName": "Colón",
+    "teamId": "colón",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/colón.webp"
+  },
+  {
+    "teamName": "CFR Cluj",
+    "teamId": "cfr-cluj",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cfr-cluj.webp"
+  },
+  {
+    "teamName": "Cercle Brugge",
+    "teamId": "cercle-brugge",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cercle-brugge.webp"
+  },
+  {
+    "teamName": "Caracas FC",
+    "teamId": "caracas-fc",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/caracas-fc.webp"
+  },
+  {
+    "teamName": "Coventry City",
+    "teamId": "coventry-city",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/coventry-city.webp"
+  },
+  {
+    "teamName": "Cracovia",
+    "teamId": "cracovia",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cracovia.webp"
+  },
+  {
+    "teamName": "Cagliari",
+    "teamId": "cagliari",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cagliari.webp"
+  },
+  {
+    "teamName": "Columbus Crew",
+    "teamId": "columbus-crew",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/columbus-crew.webp"
+  },
+  {
+    "teamName": "Cork City",
+    "teamId": "cork-city",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cork-city.webp"
+  },
+  {
+    "teamName": "CA Osasuna",
+    "teamId": "ca-osasuna",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/ca-osasuna.webp"
+  },
+  {
+    "teamName": "Charleroi",
+    "teamId": "charleroi",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/charleroi.webp"
+  },
+  {
+    "teamName": "Chennaiyin FC",
+    "teamId": "chennaiyin-fc",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/chennaiyin-fc.webp"
+  },
+  {
+    "teamName": "CD Tenerife",
+    "teamId": "cd-tenerife",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cd-tenerife.webp"
+  },
+  {
+    "teamName": "Charlton Athletic",
+    "teamId": "charlton-athletic",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/charlton-athletic.webp"
+  },
+  {
+    "teamName": "CF Montréal",
+    "teamId": "cf-montréal",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cf-montréal.webp"
+  },
+  {
+    "teamName": "Cremonese",
+    "teamId": "cremonese",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cremonese.webp"
+  },
+  {
+    "teamName": "CD Leganés",
+    "teamId": "cd-leganés",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cd-leganés.webp"
+  },
+  {
+    "teamName": "CD Mirandés",
+    "teamId": "cd-mirandés",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cd-mirandés.webp"
+  },
+  {
+    "teamName": "Coquimbo Unido",
+    "teamId": "coquimbo-unido",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/coquimbo-unido.webp"
+  },
+  {
+    "teamName": "Carlisle United",
+    "teamId": "carlisle-united",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/carlisle-united.webp"
+  },
+  {
+    "teamName": "Chaves",
+    "teamId": "chaves",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/chaves.webp"
+  },
+  {
+    "teamName": "Central Coast Mariners",
+    "teamId": "central-coast-mariners",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/central-coast-mariners.webp"
+  },
+  {
+    "teamName": "Cangzhou Mighty Lions",
+    "teamId": "cangzhou-mighty-lions",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cangzhou-mighty-lions.webp"
+  },
+  {
+    "teamName": "Central Córdoba",
+    "teamId": "central-córdoba",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/central-córdoba.webp"
+  },
+  {
+    "teamName": "Changchun Yatai",
+    "teamId": "changchun-yatai",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/changchun-yatai.webp"
+  },
+  {
+    "teamName": "Colorado Rapids",
+    "teamId": "colorado-rapids",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/colorado-rapids.webp"
+  },
+  {
+    "teamName": "Chicago Fire FC",
+    "teamId": "chicago-fire-fc",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/chicago-fire-fc.webp"
+  },
+  {
+    "teamName": "Cosenza",
+    "teamId": "cosenza",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cosenza.webp"
+  },
+  {
+    "teamName": "Cheltenham Town",
+    "teamId": "cheltenham-town",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cheltenham-town.webp"
+  },
+  {
+    "teamName": "Cuiabá",
+    "teamId": "cuiabá",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cuiabá.webp"
+  },
+  {
+    "teamName": "Cerro Largo",
+    "teamId": "cerro-largo",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cerro-largo.webp"
+  },
+  {
+    "teamName": "Chengdu Rongcheng F.C.",
+    "teamId": "chengdu-rongcheng-f.c.",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/chengdu-rongcheng-f.c..webp"
+  },
+  {
+    "teamName": "Cambridge United",
+    "teamId": "cambridge-united",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cambridge-united.webp"
+  },
+  {
+    "teamName": "Crewe Alexandra",
+    "teamId": "crewe-alexandra",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/crewe-alexandra.webp"
+  },
+  {
+    "teamName": "Como",
+    "teamId": "como",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/como.webp"
+  },
+  {
+    "teamName": "Charlotte FC",
+    "teamId": "charlotte-fc",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/charlotte-fc.webp"
+  },
+  {
+    "teamName": "CD Eldense",
+    "teamId": "cd-eldense",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cd-eldense.webp"
+  },
+  {
+    "teamName": "Casa Pia",
+    "teamId": "casa-pia",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/casa-pia.webp"
+  },
+  {
+    "teamName": "Clermont Foot",
+    "teamId": "clermont-foot",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/clermont-foot.webp"
+  },
+  {
+    "teamName": "Crawley Town",
+    "teamId": "crawley-town",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/crawley-town.webp"
+  },
+  {
+    "teamName": "Catanzaro",
+    "teamId": "catanzaro",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/catanzaro.webp"
+  },
+  {
+    "teamName": "Cobresal",
+    "teamId": "cobresal",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cobresal.webp"
+  },
+  {
+    "teamName": "Colchester United",
+    "teamId": "colchester-united",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/colchester-united.webp"
+  },
+  {
+    "teamName": "Cittadella",
+    "teamId": "cittadella",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/cittadella.webp"
+  },
+  {
+    "teamName": "Czech Republic",
+    "teamId": "czech-republic",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/czech-republic.webp"
+  },
+  {
+    "teamName": "Croatia",
+    "teamId": "croatia",
+    "url": "https://raw.githubusercontent.com/pawix135/fifa24-teams/main/images/croatia.webp"
+  }
+]
